@@ -1,3 +1,5 @@
 サルでもわかるGitコマンド
 add 変更をインデックスに登録する by vibrnum-kei
-pull リモートリポジトリの内容を取得する
+pull リモートリポジトリの内容を取得する by vibrnum-kei
+clone リモートリポジトリを複製する by vibrnum-kei
+
