@@ -4,3 +4,4 @@ commit インデックスの状態を記録する　by kaitoukei
 pull リモートリポジトリの内容を取得する by vibrnum-kei
 push リモートリポジトリの内容を更新する by kaitoukei
 log 現在のブランチのバージョン履歴を一覧で表示する by kaitoukei
+clone リモートリポジトリの内容を複製する by virnum-kei
